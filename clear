@@ -1,0 +1,21 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex f7d501d..df0bc8b 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -5,4 +5,4 @@[m
+ # small change.[m
+ [m
+ again change.[m
+[31m-new feature. new code.[m
+\ No newline at end of file[m
+[32m+[m[32mnew feature[m
+\ No newline at end of file[m
+[1mdiff --git a/app.js b/app.js[m
+[1mindex 7ec9650..c4425ad 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -1 +1 @@[m
+[31m-//new feature added -button[m
+\ No newline at end of file[m
+[32m+[m[32m//new feature added -form[m
+\ No newline at end of file[m
